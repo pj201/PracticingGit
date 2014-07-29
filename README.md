@@ -13,4 +13,4 @@ Contributors:
 * Kevin Lubick
 * Paul Jones
 * [training aid #1]
-* Sean Streck 
+* Sean Streck (added today) 
